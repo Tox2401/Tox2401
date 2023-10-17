@@ -1,3 +1,5 @@
+[Visual Portfolio]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/Tox2401/Tox2401/blob/main/Portfolio.pdf))
+
 ### About me
 
 Self-taught back-end developer with a desire to move into the IT industry. I'm a quick-learner, extremely motivated to expand
