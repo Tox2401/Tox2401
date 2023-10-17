@@ -1,4 +1,4 @@
-[Visual Portfolio]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/Tox2401/Tox2401/blob/main/Portfolio.pdf))
+## [[Visual Portfolio]](https://github.com/Tox2401/Tox2401/blob/main/Portfolio.pdf)
 
 ### About me
 
