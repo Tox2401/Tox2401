@@ -9,9 +9,8 @@ For the past year, I've been devoting my free time to learning through Udemy cou
 
 My self-taught journey resulted in a several smaller beginner level projects available on my GitHub and gave me the
 opportunity to work with several languages:
-- Python + Flask
-- Java
-- Kotlin + Android studio
+- Python + Django
+- C#
 - SQL - SQLite
 
 Working in a maritime industry in the capacity of an officer helped me develop several key qualities:
