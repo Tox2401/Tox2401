@@ -11,6 +11,7 @@ My self-taught journey resulted in a several smaller beginner level projects ava
 opportunity to work with several languages:
 - Python + Django
 - C#
+- Java
 - SQL - SQLite
 
 Working in a maritime industry in the capacity of an officer helped me develop several key qualities:
