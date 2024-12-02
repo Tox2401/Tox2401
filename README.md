@@ -10,9 +10,9 @@ completed the "Java Programming" course offered by the Computer Science Departme
 
 Through my self-taught journey, I have developed several beginner-level projects showcased on my GitHub profile. These
 projects have allowed me to gain practical experience with various programming languages, including:
-- Python
 - C# & .NET
 - SQL
+- Python
 
 Working in a maritime industry in the capacity of an officer helped me develop several key qualities:
 - Leadership skills
